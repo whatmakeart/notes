@@ -21,12 +21,11 @@ Red models will not print without supports but green models will because they ri
 ### General Structural 3D Printing Guidelines
 
 The following guidelines help achieve successful 3d Prints especially when designing containers, structural parts and pieces that need to be the correct size to match real world objects. These concepts still hold true for more organic creative work but may not be as necessary.
-|Q|•|•|
-|---|---|---|
-|![[2022 3D Print Guidlines.png]]
-![](/ICS/icsfs/mm/2022_3d_print_guidlines.png?target=ef54c04a-dbda-4750-98c1-3eaae11e0dcf) 
-Example of model showing Mechanical 3D Print Guidelines|![[2022 3D Print Gussets.png]]
-![](/ICS/icsfs/mm/2022_3d_print_gussets.png?target=0dfb2032-82aa-4932-a8c7-649650e10c42)
+
+![[2022 3D Print Guidlines.png]]
+Example of model showing Mechanical 3D Print Guidelines
+![[2022 3D Print Gussets.png]]
+
 Gussets or supporting pieces like wings give more structure to elements.|# 3D Printing
 This tutorial will
 ## Prerequisites
@@ -38,21 +37,14 @@ The first step
 
 ### External Links
 ![[2022 3D Print Uniform Wall Thickness.png]]
-![](/ICS/icsfs/mm/2022_3d_print_uniform_wall_thickness.png?target=8d831c8f-ce79-4ea7-89bc-e67f033b6ad8)
-Uniform Walls help with deformation and warping.|
-
-
+Uniform Walls help with deformation and warping.
 
 ![[2022 3D Print Fillets.png]]
-![](/ICS/icsfs/mm/2022_3d_print_fillets.png?target=caa631d1-faea-4852-adb3-5e044e000b9a)
-
 Fillets or rounded interior corners add strength and help with warping. Ribs also shown, connect vertical pieces to other vertical pieces or walls.
 ![[2022 3D Print Ribs.png]]
-![](/ICS/icsfs/mm/2022_3d_print_ribs.png?target=9b70aaf9-21a5-4561-9a1c-33500ab14291)
+
 ![[2022 3D Print Round Corners.png]]
 Chamfers or angled interior corners add strength and help with warping like fillets do.
-
-![](/ICS/icsfs/mm/2022_3d_print_round_corners.png?target=e0e6bae5-5375-4f61-93ac-66e12de4ec01)
 
 Rounded Corners put less stress on the corners and are smoother to print.
 
