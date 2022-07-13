@@ -47,6 +47,9 @@ plugins:
   - roamlinks
   - mermaid2
 
+extra_css:
+  - "extra-styles.css"
+
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://unpkg.com/mermaid/dist/mermaid.min.js
