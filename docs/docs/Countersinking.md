@@ -1,0 +1,2 @@
+# Countersinking 
+Often when using fasteners it is a good idea to countersink the fastener so it is either flush with the top of the material being joined or slightly below the material being joined. This can be done for aesthetic purposes as well as structural purposes. For example, wood fasteners are designed to be countersunk into the top material.
