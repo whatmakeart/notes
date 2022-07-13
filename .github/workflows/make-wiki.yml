@@ -1,4 +1,4 @@
-name: ci
+name: make-wiki
 on:
   push:
     branches:
