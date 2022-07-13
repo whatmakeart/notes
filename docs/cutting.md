@@ -1,0 +1,2 @@
+# Cutting
+Cutting is a [[fabrication]] process that breaks materials or objects into smaller pieces. Most materials can be cut into smaller pieces. Many materials can also be chipped or chisled away. Sanding is another form of fine "cutting".
