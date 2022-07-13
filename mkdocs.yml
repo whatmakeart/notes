@@ -24,6 +24,7 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
+  - sane_lists
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
@@ -48,7 +49,7 @@ plugins:
   - mermaid2
 
 extra_css:
-  - "extra-styles.css"
+  - "../extra-styles.css"
 
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
