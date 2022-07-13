@@ -3,7 +3,14 @@
 
 
 # test HTML and markdown
-<div class="flextime"><img src="attachments/PXL_20220706_055413975.jpg"><img src="attachments/PXL_20220706_055413975.jpg"><img src="attachments/PXL_20220706_055413975.jpg"></div>
+No slash
+<div class="flextime"><img src="attachments/20220706_055413975_Hex_Bolt_Countersunk _with_Washer"><img src="attachments/20220706_055413975_Hex_Bolt_Countersunk _with_Washer"><img src="attachments/20220706_055413975_Hex_Bolt_Countersunk _with_Washer"></div>
+
+Slash /
+<div class="flextime"><img src="/attachments/20220706_055413975_Hex_Bolt_Countersunk _with_Washer"><img src="/attachments/20220706_055413975_Hex_Bolt_Countersunk _with_Washer"><img src="/attachments/20220706_055413975_Hex_Bolt_Countersunk _with_Washer"></div>
+
+Slash with dots ../
+<div class="flextime"><img src="../attachments/20220706_055413975_Hex_Bolt_Countersunk _with_Washer"><img src="../attachments/20220706_055413975_Hex_Bolt_Countersunk _with_Washer"><img src="../attachments/20220706_055413975_Hex_Bolt_Countersunk _with_Washer"></div>
 
 ## Header Under
 
