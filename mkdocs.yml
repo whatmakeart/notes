@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs
+site_name: Art Making Wiki
 
 theme:
   name: "material"
@@ -6,7 +6,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: orange
+      primary: blue
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -49,6 +49,7 @@ plugins:
   - mermaid2
 
 extra_css:
+  - "red.css"
   - "../extra-styles.css"
 
 extra_javascript:
